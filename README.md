@@ -16,9 +16,7 @@ Feel free to invite me to projects or challenge me with new puzzles. It's where 
 
 ---
 
-🌱 **Currently Learning:** Programming through an intensive 14-week bootcamp.  
-⚡ **Fun Fact:** I love Manga and JRPGs!  
-💬 **Ask me about:** New projects, puzzles, and any exciting challenges!  
+🌱 **Currently Learning:** Programming through an intensive 14-week bootcamp.   
 📫 **How to reach me:** Reach out via [GitHub]([https://github.com/yourusername](https://github.com/SaiyajinMachine)) or connect with me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/andreferreiradepinho/)).
 
 ---
