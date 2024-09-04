@@ -23,8 +23,6 @@ Facing new challenges or puzzles is where I thrive, and I am always with an adve
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiyajinMachine&layout=compact" alt="Most Used Languages" style="max-width: 100%;">
-
 <div style="display: flex; justify-content: center;"> 
     <a style="margin-right:10%;">
         <img src="https://github-readme-stats.vercel.app/api?username=SaiyajinMachine&show_icons=true&theme=buefy&rank_icon=github" alt="GitHub Stats" style="width: 45%;">
