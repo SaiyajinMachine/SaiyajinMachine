@@ -1,18 +1,35 @@
 # Hello, World! 
 
+---
+
 ## About Me
 
-After a few years stuck inside the side quest whirlpool that may spawn after finishing college, I have seen a lot and been in a state of constant change. As someone who loves new challenges, deciding to finally head back to main quest territory by joining a 14-week intensive bootcamp to become a programmer without any previous experience was a really enticing and awesome idea. It was a straightforward decision, one I am very delighted to have made.
+Extremely energetic and cheerful I am constantly at full speed. I am very passionate when it comes to learning as I get excited about almost everything. 
+Facing new challenges or puzzles is where I thrive, and I am always with an adventurous spirit and up to reaching new heights!
 
-Extremely energetic and cheerful, I am constantly at full speed. I am very passionate when it comes to learning, as I get excited about almost everything. I am best described as always having two tabs open in my mind simultaneously: one in the Matrix and the other right here alongside you all.
+---
 
-## Interests
+## Technologies I've worked with (among many others):
+<p align= left>
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height= "40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height= "40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+</p>
 
-Having a million hobbies is a fact, but you will mostly see me devouring Manga or happily enjoying the life of a JRPG hero when I am not in full Neo mode.
+---
 
-## Let's Collaborate!
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiyajinMachine&layout=compact" alt="Most Used Languages" style="max-width: 100%;">
 
-Feel free to invite me to projects or challenge me with new puzzles. It's where I thrive, and I am always with an adventurous spirit and up to reaching new heights!
+<div style="display: flex; justify-content: center;"> 
+    <a style="margin-right:10%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=SaiyajinMachine&show_icons=true&theme=buefy&rank_icon=github" alt="GitHub Stats" style="width: 45%;">
+    </a>
+</div>
 
 ---
 
