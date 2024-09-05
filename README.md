@@ -33,7 +33,9 @@ Facing new challenges or puzzles is where I thrive, and I am always with an adve
 
 ## 📫 How to reach me:
 
-Reach out via [GitHub]([https://github.com/yourusername](https://github.com/SaiyajinMachine)) or connect with me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/andreferreiradepinho/)).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreferreiradepinho)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrefpinho00@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351925233078)
 
 ---
 
