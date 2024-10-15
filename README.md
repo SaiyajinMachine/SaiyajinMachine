@@ -4,7 +4,7 @@
 
 ## About Me
 
-Extremely energetic and cheerful I am constantly at full speed. I am very passionate when it comes to learning as I get excited about almost everything. 
+Extremely energetic and cheerful I am constantly at full speed. I am very passionate when it comes to learning. 
 Facing new challenges or puzzles is where I thrive, and I am always with an adventurous spirit and up to reaching new heights!
 
 ---
