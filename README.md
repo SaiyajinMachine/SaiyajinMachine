@@ -4,8 +4,9 @@
 
 ## About Me
 
-Extremely energetic and cheerful I am constantly at full speed. I am very passionate when it comes to learning. 
-Facing new challenges or puzzles is where I thrive, and I am always with an adventurous spirit and up to reaching new heights!
+ 
+
+Dynamic and enthusiastic freelance full-stack web developer with a strong passion for continuous learning and innovation. Known for maintaining a high-energy approach, I thrive in fast-paced environments and am dedicated to enhancing user satisfaction through impactful web solutions. Seeking a challenging role to leverage my skills and contribute to cutting-edge web development projects. 
 
 ---
 
