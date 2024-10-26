@@ -45,6 +45,4 @@ Dynamic and enthusiastic freelance full stack web developer with a strong passio
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrefpinho00@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351925233078)
 
----
 
-> Always ready to dive into new adventures and conquer the next quest!
