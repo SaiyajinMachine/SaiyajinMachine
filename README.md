@@ -6,7 +6,7 @@
 
  
 
-Dynamic and enthusiastic freelance full stack web developer with a strong passion for continuous learning, innovation, and creativity. Known for my high-energy approach and adaptability, I thrive in fast-paced environments and am dedicated to enhancing user satisfaction through impactful web solutions. I’m seeking a challenging role where I can leverage my skills and contribute to cutting-edge web development projects.
+Dynamic and enthusiastic front end developer with a strong passion for continuous learning, innovation, and creativity. Known for my high-energy approach and adaptability, I thrive in fast-paced environments and am dedicated to enhancing user satisfaction through impactful web solutions. I’m seeking a challenging role where I can leverage my skills and contribute to cutting-edge web development projects.
 ---
 
 ## Technologies I've worked with:
